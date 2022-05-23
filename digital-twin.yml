@@ -1,0 +1,11 @@
+name: digital-twin
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - console_shortcut
+  - pandas
+  - keras
+  - tensorflow
+  - scikit-learn
+  - plotly
